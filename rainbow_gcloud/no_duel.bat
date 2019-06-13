@@ -1,0 +1,1 @@
+python No_dueling/main.py --game qbert --render --evaluate --disable-cuda --model results_no_dueling/results/model.pth

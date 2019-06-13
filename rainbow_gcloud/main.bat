@@ -1,0 +1,1 @@
+python Rainbow/main.py --game qbert --render --evaluate --disable-cuda --model results_main/results/model.pth
